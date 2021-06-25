@@ -24,9 +24,7 @@ namespace Omadiko.Console2
             }
 
             
-            Console.WriteLine("Hello World5");
-           
-            kALIPASDADAEFIUSIUSIAURVUIAR AVRAURV AORVN AO
+            
         }
 
 
