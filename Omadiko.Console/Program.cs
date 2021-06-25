@@ -23,13 +23,7 @@ namespace Omadiko.Console2
                 Console.WriteLine(item.Name);
             }
 
-            Console.WriteLine("Hello World1");
-            Console.WriteLine("Hello World2");
-            Console.WriteLine("Hello World3");
-            Console.WriteLine("Hello World4");
-            Console.WriteLine("Hello World5");
-           
-            kALIPASDADAEFIUSIUSIAURVUIAR AVRAURV AORVN AO
+            
         }
 
 
